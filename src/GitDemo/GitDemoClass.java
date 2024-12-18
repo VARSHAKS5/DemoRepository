@@ -5,7 +5,7 @@ public class GitDemoClass {
 		
 
 	System.out.println("Hi -1 from STS");
-	System.out.println("Hi-1 from just GITHUB");
+	System.out.println("Hi from just GITHUB");
 	}
 
 }
